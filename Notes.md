@@ -31,3 +31,17 @@ npm install -g json-server
 ## Start JSON Server
 
 json-server --watch db.json
+
+
+
+
+### Full information github learn
+
+https://github.com/typicode/json-server/blob/master/README.md
+
+### Youtube Video
+
+https://youtu.be/u7dPGuGB0Kc
+
+
+# using POSTMAN
