@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Vijay Mane",
+      "email": "vijay@gmail.com",
+      "address": "Belagavi"
+    },
+    {
+      "id": 2,
+      "name": "kumar Mane",
+      "email": "kumar@gmail.com",
+      "address": "Belgaum"
+    },
+    {
+      "id": 3,
+      "name": "kumar Mane",
+      "email": "kumar@gmail.com",
+      "address": "Belgaum"
+    }
+  ]
+}
